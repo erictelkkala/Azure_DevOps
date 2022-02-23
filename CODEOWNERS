@@ -1,0 +1,11 @@
+# Code Owners for a file
+index.html @erictelkkala
+
+# Code Owners for a directory
+folder/ @erictelkkala
+
+# All group members as Code Owners for a file
+index.html @boys
+
+# All group members as Code Owners for a directory
+folder/ @boys
